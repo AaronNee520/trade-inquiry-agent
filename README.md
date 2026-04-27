@@ -17,7 +17,7 @@
 
 ## 快速开始
 
-### 在 QClaw/ClawHub 安装
+### 在 GitHub/ClawHub 安装
 
 ```bash
 # 通过 ClawHub 安装
